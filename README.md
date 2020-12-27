@@ -1,7 +1,6 @@
-## Hyperskill.org Project Lists :
+## Hyperskill.org projects:
 
 # Beginner:
 
 1. Zoo Keeper
 
-# hyperskill_projects
