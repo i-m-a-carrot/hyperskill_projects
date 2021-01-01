@@ -11,7 +11,7 @@
 ### Simple Banking System:
 |About |Learning outcomes |
 |------|------------------|
-
+|Creating a simple console chat bot |The basic syntax of Python and Write a simple program using variables, conditions, loops, and functions.|
 
 
 ## Medium
