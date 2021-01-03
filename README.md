@@ -14,6 +14,11 @@
 |Creating a simple console chat bot |The basic syntax of Python and Write a simple program using variables, conditions, loops, and functions.|
 
 
+### Hangman
+|About |Learning outcomes |
+|------|------------------|
+|Hangman is a popular yet grim puzzle game. A cruel computer hides a word from you, which you try to guess letter by letter.|Python basics|
+
 ## Medium
 
 
