@@ -19,6 +19,11 @@
 |------|------------------|
 |Hangman is a popular yet grim puzzle game. A cruel computer hides a word from you, which you try to guess letter by letter.|Python basics|
 
+### Coffee Machine
+|About |Learning outcomes |
+|------|------------------|
+|Programming a coffee machine simulator| Get taste of Python. Practise working with functions, challenge yourself with loops and condition.
+
 ## Medium
 
 
